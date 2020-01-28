@@ -1,6 +1,6 @@
-# MongoDB Interview Questions
+# Interview Questions
 
-## Topic: MongoDB
+## MongoDB
 
 ### Q1: Explain what is MongoDB? ☆
 
